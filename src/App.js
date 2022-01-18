@@ -1,4 +1,4 @@
-import { Button, Stack } from "react-bootstrap";
+import { Button, Stack, Accordion } from "react-bootstrap";
 import Container from "react-bootstrap/Container";
 import BudgetCard from "./components/BudgetCard";
 import TotalBudgetCard from "./components/TotalBudgetCard";
@@ -23,9 +23,28 @@ function App() {
     setShowAddExpenseModal(true);
     setAddExpenseModalBudgetId(budgetId);
   }
+  const appLink = "https://github.com/helenalvp/budget-app";
 
   return (
     <>
+      <Accordion flush>
+        <Accordion.Item eventKey="0">
+          <Accordion.Header>More Info</Accordion.Header>
+          <Accordion.Body>
+            Thank you for visiting this site! This site uses your local storage
+            to save your expenses. To view the code and download it for offline
+            use, you can visit the
+            <a
+              href={appLink}
+              rel="noreferrer"
+              target="_blank"
+              style={{ "text-decoration": "none" }}
+            >
+              repo
+            </a>
+          </Accordion.Body>
+        </Accordion.Item>
+      </Accordion>
       <Container className="my-4">
         <Stack direction="horizontal" gap="2" className="mb-4">
           <h1 className="me-auto">Budgets</h1>
