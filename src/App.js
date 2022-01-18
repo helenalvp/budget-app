@@ -34,14 +34,17 @@ function App() {
             Thank you for visiting this site! This site uses your local storage
             to save your expenses. To view the code and download it for offline
             use, you can visit the
-            <a
-              href={appLink}
-              rel="noreferrer"
-              target="_blank"
-              style={{ "text-decoration": "none" }}
-            >
-              repo
-            </a>
+            <span className="mx-1">
+              <a
+                href={appLink}
+                rel="noreferrer"
+                target="_blank"
+                style={{ "text-decoration": "none" }}
+              >
+                repo
+              </a>
+              .
+            </span>
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>
