@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Helena L Vaquera - [@helenalvp](https://twitter.com/helenalvp) - helenalvp@gmail.com
+Helena L Vaquera - [@helenalvp](https://twitter.com/helenalvp) - helenalvp@gmail.com - [helenalvp.com](https://helenalvp.com)
 
 Project Link: [https://github.com/helenalvp/budget-app](https://github.com/helenalvp/budget-app)
 
