@@ -1,8 +1,6 @@
 # Getting Started with Create React App
 # Budget Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -12,11 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -80,8 +73,8 @@ Used to create budgets and spending. Its friendly user interface lets you create
 ### Built With
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-- [Bootstrap](https://getbootstrap.com/)
-- [Material UI](https://material-ui.com/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [UUID](https://www.npmjs.com/package/uuid)
 
 <!-- GETTING STARTED -->
 
@@ -154,59 +147,21 @@ Project Link: [https://github.com/helenalvp/budget-app](https://github.com/helen
 ## Acknowledgements
 
 - [Flat Icon](https://flaticon.com)
-- [React Bootstrap]
-- [UUID]
 <!--- []() -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+
 [contributors-shield]: https://img.shields.io/github/contributors/helenalvp/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/helenalvp/budget-app/graphs/contributors
+[contributors-url]: https://github.com/helenalvp/cart-checker/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/helenalvp/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/helenalvp/budget-app/network/members
+[forks-url]: https://github.com/helenalvp/cart-checker/network/members
 [stars-shield]: https://img.shields.io/github/stars/helenalvp/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/helenalvp/budget-app/stargazers
+[stars-url]: https://github.com/helenalvp/cart-checker/stargazers
 [issues-shield]: https://img.shields.io/github/issues/helenalvp/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/helenalvp/budget-app/issues
+[issues-url]: https://github.com/helenalvp/cart-checker/issues
 [license-shield]: https://img.shields.io/github/license/helenalvp/repo.svg?style=for-the-badge
-[license-url]: https://github.com/helenalvp/budget-app/blob/master/LICENSE.txt
+[license-url]: https://github.com/helenalvp/cart-checker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/helenalvp
-
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
